@@ -1,8 +1,0 @@
-Part,Description,Qty,Unit Price (USD),Total (USD),Vendor,Link,Notes
-XIAO ESP32-C3,Main microcontroller,1,14.53,14.53,MTLAB,https://mtlab.pe/producto/xiao-esp32-c3-seeed-studio-mini-placa-de-desarrollo-wifi-ble/?srsltid=AU7gw4U3FrO-8PnVshKNfhkO0g_NRLZACxDkeyeNpQ1DJZ3LB_GeW4W7,
-SSD1306 OLED 0.96in 128x64 I2C (4-pin),Displays the pet,1,5.81,5.81,Nanoparuro,https://nanoparuro.com/shop/oled096-i2c-display-oled-0-96-pulgadas-i2c-oled096-i2c-1111?search=OLED&order=name+asc#attr=,
-MPU6050 module (GY-521),Tilt and shake sensing,1,4.07,4.07,Nanoparuro,https://nanoparuro.com/shop/mpu6050-mpu-6050-sensor-giroscopio-analogo-de-3-ejes-acelerometro-de-3-ejes-gy-521-277?search=MPU6050&order=name+asc#attr=,
-DHT11 sensor,Temperature and humidity,1,2.32,2.32,Nanoparuro,https://nanoparuro.com/shop/dht11-gen-dht11-sensor-de-humedad-y-temperatura-digital-para-arduino-y-mcus-70?search=DHT111&order=name+asc#attr=,
-Resistor 10K 1/4W through-hole,Pull-up for the DHT11 data line,1,0.03,0.03,Nanoparuro,https://nanoparuro.com/shop/resistencia-1-4w-5-183?category=15&search=10k#attr=77,
-Pin header 1x08 2.54mm,Connection for the MPU6050 (J2),2,0.52,0.52,Nanoparuro,https://nanoparuro.com/shop/ard-8ph-ard-8ph-header-de-8-pin-stackable-para-arduino-1395#attr=,
-Tax and shipping,Whole order,1,0,27.28,,,
