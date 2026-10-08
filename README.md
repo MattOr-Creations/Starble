@@ -18,6 +18,8 @@ It's a very interesting build, I haven't really experimented much with motion se
 + Modified the 4 menu items to match my cat's preferred actions: NAP / PLAY / FEED / PET -> NAP / CHASE / TREAT / PET
 + Most actions give increased hunger(Hardmode??)
 
+## BOM
+
 ## PCB
 Used KiCad for the schematic and PCB design
 <img width="1843" height="864" alt="SchematicPNG" src="https://github.com/user-attachments/assets/a01b7d77-61fd-4fdf-a05a-f1fce16eeb56" />
