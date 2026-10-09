@@ -19,9 +19,12 @@ It's a very interesting build, I haven't really experimented much with motion se
 + Most actions give increased hunger(Hardmode??)
 
 ## BOM
+List of materials and prices here: [BOM.csv](BOM.csv)
+
+Note: Parts such as the 1x04 pin header and the two buttons were not included, the reason being that I already have those components at home.
 
 ## PCB
-Used KiCad for the schematic and PCB design
+Followed the guide in order to make Starbie's schematic and PCB design in Kicad
 <img width="1843" height="864" alt="SchematicPNG" src="https://github.com/user-attachments/assets/a01b7d77-61fd-4fdf-a05a-f1fce16eeb56" />
 <img width="705" height="654" alt="PCBIMG" src="https://github.com/user-attachments/assets/f3ab8610-2f44-445d-afc1-88bc2a7df153" />
 
