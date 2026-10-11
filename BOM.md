@@ -19,7 +19,7 @@
 | [10K resistor](https://nanoparuro.com/shop/resistencia-1-4w-5-183?category=15&search=10k#attr=77) | Pull-up for the DHT11 data line | 1 | $0.03 | $0.03 | [Nanoparuro](https://nanoparuro.com/shop/resistencia-1-4w-5-183?category=15&search=10k#attr=77) |
 | [1x08 pin header](https://nanoparuro.com/shop/ard-8ph-ard-8ph-header-de-8-pin-stackable-para-arduino-1395#attr=) | Connects the MPU6050 to the board | 1 | $0.52 | $0.52 | [Nanoparuro](https://nanoparuro.com/shop/ard-8ph-ard-8ph-header-de-8-pin-stackable-para-arduino-1395#attr=) |
 | **Parts subtotal** | — | — | — | **$19.37** | — |
-| **Tax & shipping** | — | — | — | **$0.00** | — |
-| **Total** | — | — | — | **$19.37** | — |
+| **Tax & shipping** | — | — | — | **$7.38** | — |
+| **Total** | — | — | — | **$26.75** | — |
 
-$10.63 left of the tier's funding.
+$3.25 left of the tier's funding.
